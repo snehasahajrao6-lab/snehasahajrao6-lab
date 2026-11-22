@@ -76,7 +76,7 @@ Cloud Engineering | DevOps Engineering | AWS | Automation | CI/CD
 ## 🤝 LET'S CONNECT
 
 - GitHub: [snehasahajrao6-lab](https://github.com/snehasahajrao6-lab)
-- LinkedIn: [Connect with me]([https://www.linkedin.com/in/sneha-sahajrao-095310297](https://www.linkedin.com/in/sneha-sahajrao-095310297?utm_source=chatgpt.com))
+- LinkedIn: ([https://www.linkedin.com/in/sneha-sahajrao-095310297])
 
 ---
 
